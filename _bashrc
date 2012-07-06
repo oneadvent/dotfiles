@@ -143,7 +143,7 @@ if [ "$vim" == "" ]; then
     vim="gvim -v"
 fi
 
-alias vim="$vim"
+alias vi="$vim"
 
 # osx vim
 if [ -x "/Applications/MacVim.app/Contents/MacOS/Vim" ]; then
