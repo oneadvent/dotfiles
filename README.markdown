@@ -35,6 +35,7 @@ From this top-level directory.
 * vim
 * gvim
 * rake
+* ncurses-devel
 
 ## CHECKS
 * check that alias vi="vim" in .bashrc
