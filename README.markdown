@@ -31,3 +31,10 @@ From this top-level directory.
 
 ## Requirements
 * bash
+* ruby-devel
+* vim
+* gvim
+* rake
+
+## CHECKS
+* check that alias vi="vim" in .bashrc
