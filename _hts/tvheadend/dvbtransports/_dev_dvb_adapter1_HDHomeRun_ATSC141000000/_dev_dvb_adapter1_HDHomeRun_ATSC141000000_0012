@@ -1,0 +1,30 @@
+{
+	"service_id": 18,
+	"pmt": 4176,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"dvb_eit_enable": 1,
+	"pcr": 4177,
+	"disabled": 1,
+	"stream": {
+		"pid": 4177,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 4178,
+		"type": "AC3",
+		"position": 0
+	},
+	"stream": {
+		"pid": 4189,
+		"type": "CA",
+		"position": 0,
+		"caidlist": [
+			{
+				"caid": 3584
+			}
+		]
+	}
+}

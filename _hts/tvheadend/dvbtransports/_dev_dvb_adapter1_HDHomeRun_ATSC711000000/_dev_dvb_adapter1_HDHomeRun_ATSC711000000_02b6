@@ -1,0 +1,26 @@
+{
+	"service_id": 694,
+	"pmt": 2992,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WSRE3",
+	"channelname": "694 WSREDT3",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2993,
+	"disabled": 0,
+	"stream": {
+		"pid": 2993,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 704,
+		"height": 480
+	},
+	"stream": {
+		"pid": 2996,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

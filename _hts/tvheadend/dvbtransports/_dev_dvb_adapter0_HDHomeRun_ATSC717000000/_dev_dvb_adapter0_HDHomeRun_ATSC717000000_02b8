@@ -1,0 +1,26 @@
+{
+	"service_id": 696,
+	"pmt": 3024,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "NBCWP",
+	"channelname": "696 WPMIDT2",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 3025,
+	"disabled": 0,
+	"stream": {
+		"pid": 3025,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 704,
+		"height": 480
+	},
+	"stream": {
+		"pid": 3028,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

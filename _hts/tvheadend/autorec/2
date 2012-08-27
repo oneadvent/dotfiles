@@ -1,0 +1,11 @@
+{
+	"id": "2",
+	"enabled": 0,
+	"creator": "192.168.1.191",
+	"comment": "Created from EPG query",
+	"contenttype": 0,
+	"title": "jeopardy",
+	"approx_time": 0,
+	"weekdays": "2,4",
+	"pri": "normal"
+}

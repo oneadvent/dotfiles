@@ -1,0 +1,22 @@
+{
+	"channel": "5 WKRG",
+	"start": 1345651200,
+	"stop": 1345654800,
+	"start_extra": 0,
+	"stop_extra": 0,
+	"config_name": "",
+	"creator": "192.168.1.191",
+	"filename": "/home/oneadvent/Videos/The Young and the Restless.E2403.mkv",
+	"title": {
+		"eng": "The Young and the Restless",
+		"und": "The Young and the Restless"
+	},
+	"description": {
+		"eng": "Victor makes an unlikely friend; Avery suggests Nick use Sharon's past against her.",
+		"und": "Victor makes an unlikely friend; Avery suggests Nick use Sharon's past against her."
+	},
+	"pri": "normal",
+	"noresched": 0,
+	"broadcast": 2214,
+	"container": 1
+}

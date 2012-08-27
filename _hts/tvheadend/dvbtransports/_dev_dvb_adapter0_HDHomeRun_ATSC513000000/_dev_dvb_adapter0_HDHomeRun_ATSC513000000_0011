@@ -1,0 +1,23 @@
+{
+	"service_id": 17,
+	"pmt": 4160,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"channelname": "19 CSPAN",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 4161,
+	"disabled": 0,
+	"stream": {
+		"pid": 4161,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 4162,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

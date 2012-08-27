@@ -1,0 +1,25 @@
+{
+	"service_id": 1023,
+	"pmt": 2071,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WAWD HD",
+	"channelname": "22 WAWD",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2070,
+	"disabled": 0,
+	"stream": {
+		"pid": 2070,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 1280,
+		"height": 720
+	},
+	"stream": {
+		"pid": 2069,
+		"type": "AC3",
+		"position": 1
+	}
+}

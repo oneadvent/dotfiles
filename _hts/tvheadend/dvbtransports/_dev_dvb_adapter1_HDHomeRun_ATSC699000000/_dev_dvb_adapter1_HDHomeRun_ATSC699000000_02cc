@@ -1,0 +1,26 @@
+{
+	"service_id": 716,
+	"pmt": 2061,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WFNA HD",
+	"channelname": "1015 WFNADT",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2060,
+	"disabled": 0,
+	"stream": {
+		"pid": 2060,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 1920,
+		"height": 1080
+	},
+	"stream": {
+		"pid": 2059,
+		"type": "AC3",
+		"position": 1,
+		"language": "spa"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"service_id": 714,
+	"pmt": 3312,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WJTC HD",
+	"channelname": "1012 WJTCDT",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 3313,
+	"disabled": 0,
+	"stream": {
+		"pid": 3313,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 1280,
+		"height": 720
+	},
+	"stream": {
+		"pid": 3316,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

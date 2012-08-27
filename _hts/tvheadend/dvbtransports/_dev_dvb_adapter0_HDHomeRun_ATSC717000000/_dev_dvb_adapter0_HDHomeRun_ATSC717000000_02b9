@@ -1,0 +1,26 @@
+{
+	"service_id": 697,
+	"pmt": 3040,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "RADAR",
+	"channelname": "697 WKRGDT2",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 3041,
+	"disabled": 0,
+	"stream": {
+		"pid": 3041,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 704,
+		"height": 480
+	},
+	"stream": {
+		"pid": 3044,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

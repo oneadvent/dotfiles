@@ -1,0 +1,23 @@
+{
+	"service_id": 57,
+	"pmt": 4800,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"channelname": "81 CSPAN2",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 4801,
+	"disabled": 0,
+	"stream": {
+		"pid": 4801,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 4802,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

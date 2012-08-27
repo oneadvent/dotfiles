@@ -1,0 +1,26 @@
+{
+	"service_id": 699,
+	"pmt": 3072,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "RTN",
+	"channelname": "699 WKRGDT3",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 3073,
+	"disabled": 0,
+	"stream": {
+		"pid": 3073,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 704,
+		"height": 480
+	},
+	"stream": {
+		"pid": 3076,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "ATSC",
+	"displayname": "HDHomeRun ATSC",
+	"autodiscovery": 0,
+	"idlescan": 0,
+	"qmon": 0,
+	"dump_muxes": 0,
+	"poweroff": 0,
+	"nitoid": 0,
+	"diseqc_version": 0,
+	"extrapriority": 0,
+	"skip_initialscan": 1
+}

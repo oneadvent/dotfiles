@@ -1,0 +1,26 @@
+{
+	"service_id": 118,
+	"pmt": 2077,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WFGX2  ",
+	"channelname": "118 WFGXDT2",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2076,
+	"disabled": 0,
+	"stream": {
+		"pid": 2076,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 704,
+		"height": 480
+	},
+	"stream": {
+		"pid": 2075,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"service_id": 17,
+	"pmt": 1853,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WDPM",
+	"dvb_eit_enable": 1,
+	"pcr": 0,
+	"disabled": 0
+}

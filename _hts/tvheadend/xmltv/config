@@ -1,0 +1,210 @@
+{
+	"grabbers": [
+		{
+			"path": "/usr/bin/tv_grab_combiner",
+			"description": "Combine data from several other grabbers",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_combiner version 1.2, 2006/12/29 13:41:40 \n",
+			"mtime": 1291443515,
+			"capabilities": 3
+		},
+		{
+			"path": "/usr/bin/tv_grab_hr",
+			"description": "Croatia",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_hr version 1.8, 2010/10/01 17:49:30 \n",
+			"mtime": 1291443513,
+			"capabilities": 15
+		},
+		{
+			"path": "/usr/bin/tv_grab_ee",
+			"description": "Estonia (www.kava.ee)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_ee version 1.19, 2010/10/01 17:15:21 \n",
+			"mtime": 1291443513,
+			"capabilities": 15
+		},
+		{
+			"path": "/usr/bin/tv_grab_fi",
+			"description": "Finland",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_fi version 1.58, 2010/11/30 18:22:57 \n",
+			"mtime": 1291443514,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_fi_sv",
+			"description": "Finland (Swedish)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_fi_sv version 1.8, 2010/11/17 23:22:00 \n",
+			"mtime": 1291443512,
+			"capabilities": 11
+		},
+		{
+			"path": "/usr/bin/tv_grab_fr",
+			"description": "France",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_fr version 1.96, 2010/10/29 05:43:34 \n",
+			"mtime": 1291443513,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_nl",
+			"description": "Holland",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_nl version 1.74, 2010/09/02 05:07:40 \n",
+			"mtime": 1291443510,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_huro",
+			"description": "Hungary/Romania",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_huro.in version 1.41, 2010/10/14 06:43:18 \n",
+			"mtime": 1291443509,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_is",
+			"description": "Iceland",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_is version 1.25, 2010/11/15 17:13:40 \n",
+			"mtime": 1291443514,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_in",
+			"description": "India (Whats On)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_in version 1.13, 2010/09/28 06:22:35 \n",
+			"mtime": 1291443515,
+			"capabilities": 3
+		},
+		{
+			"path": "/usr/bin/tv_grab_il",
+			"description": "Israel (tv.walla.co.il)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_il version 1.24, 2010/11/14 05:54:51 \n",
+			"mtime": 1291443512,
+			"capabilities": 11
+		},
+		{
+			"path": "/usr/bin/tv_grab_it",
+			"description": "Italy",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_it.in version 1.97, 2010/10/30 12:03:44 \n",
+			"mtime": 1291443512,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_dtv_la",
+			"description": "Latin America Direct TV listings",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_dtv_la version 1.3, 2010/09/02 05:07:40 \n",
+			"mtime": 1291443509,
+			"capabilities": 3
+		},
+		{
+			"path": "/usr/bin/tv_grab_na_dd",
+			"description": "North America (Data Direct)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_na_dd.in version 1.82, 2010/09/04 10:28:44 \n",
+			"mtime": 1291443515,
+			"capabilities": 3
+		},
+		{
+			"path": "/usr/bin/tv_grab_na_dtv",
+			"description": "North America using www.directv.com",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_na_dtv version 1.16, 2008/12/09 15:48:50 \n",
+			"mtime": 1291443509,
+			"capabilities": 11
+		},
+		{
+			"path": "/usr/bin/tv_grab_no_gfeed",
+			"description": "Norway (beta)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_no_gfeed version 1.8, 2010/10/01 17:49:30 \n",
+			"mtime": 1291443511,
+			"capabilities": 15
+		},
+		{
+			"path": "/usr/bin/tv_grab_eu_epgdata",
+			"description": "Parts of Europe (commercial) (www.epgdata.com)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_eu_epgdata version 1.31, 2010/09/04 10:28:44 \n",
+			"mtime": 1291443515,
+			"capabilities": 15
+		},
+		{
+			"path": "/usr/bin/tv_grab_pt",
+			"description": "Portugal",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_pt version 1.48, 2010/09/02 05:07:40 \n",
+			"mtime": 1291443513,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_pt_meo",
+			"description": "Portugal (MEO)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_pt_meo version 1.3, 2010/10/01 16:17:27 \n",
+			"mtime": 1291443513,
+			"capabilities": 11
+		},
+		{
+			"path": "/usr/bin/tv_grab_re",
+			"description": "Reunion Island",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_re version 1.24, 2010/10/14 07:19:21 \n",
+			"mtime": 1291443512,
+			"capabilities": 3
+		},
+		{
+			"path": "/usr/bin/tv_grab_it_dvb",
+			"description": "SkyEPG Italy",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_it_dvb.in version 1.4, 2010/11/01 17:59:29 \n",
+			"mtime": 1291443514,
+			"capabilities": 0
+		},
+		{
+			"path": "/usr/bin/tv_grab_za",
+			"description": "South Africa",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_za version 1.41, 2010/11/15 19:39:32 \n",
+			"mtime": 1291443508,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_es_laguiatv",
+			"description": "Spain (laguiatv.com)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_es_laguiatv version 1.16, 2010/11/21 14:49:59 \n",
+			"mtime": 1291443512,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_es_miguiatv",
+			"description": "Spain (miguiatv.com)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_es_miguiatv version 1.4, 2010/09/02 05:07:40 \n",
+			"mtime": 1291443514,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_se_swedb",
+			"description": "Sweden (tv.swedb.se)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_se_swedb version 1.8, 2010/10/01 17:49:30 \n",
+			"mtime": 1291443509,
+			"capabilities": 15
+		},
+		{
+			"path": "/usr/bin/tv_grab_ch_search",
+			"description": "Switzerland (tv.search.ch)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_ch_search.in version 1.14, 2010/10/26 08:43:10 \n",
+			"mtime": 1291443508,
+			"capabilities": 7
+		},
+		{
+			"path": "/usr/bin/tv_grab_dk_dr",
+			"description": "TV Oversigten fra Danmarks Radios (www.dr.dk/tjenester/programoversigt)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_dk_dr version 1.8, 2010/10/04 20:54:13 \n",
+			"mtime": 1291443514,
+			"capabilities": 11
+		},
+		{
+			"path": "/usr/bin/tv_grab_uk_bleb",
+			"description": "United Kingdom (bleb.org)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_uk_bleb.in version 1.20, 2010/09/06 15:30:02 \n",
+			"mtime": 1291443510,
+			"capabilities": 3
+		},
+		{
+			"path": "/usr/bin/tv_grab_uk_rt",
+			"description": "United Kingdom/Republic of Ireland (Radio Times)",
+			"version": "XMLTV module version 0.5.59\nThis is tv_grab_uk_rt version 1.331, 2010/11/19 11:31:00 \n",
+			"mtime": 1291443512,
+			"capabilities": 15
+		}
+	],
+	"grab-interval": 12,
+	"grab-enabled": 1,
+	"current-grabber": "/usr/bin/tv_grab_na_dd"
+}

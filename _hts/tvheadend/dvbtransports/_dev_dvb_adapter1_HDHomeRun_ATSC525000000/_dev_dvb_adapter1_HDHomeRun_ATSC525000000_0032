@@ -1,0 +1,32 @@
+{
+	"service_id": 50,
+	"pmt": 4688,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"dvb_eit_enable": 1,
+	"pcr": 4689,
+	"disabled": 1,
+	"stream": {
+		"pid": 4690,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	},
+	"stream": {
+		"pid": 4691,
+		"type": "AC3",
+		"position": 2,
+		"language": "spa"
+	},
+	"stream": {
+		"pid": 4701,
+		"type": "CA",
+		"position": 262144,
+		"caidlist": [
+			{
+				"caid": 3584
+			}
+		]
+	}
+}

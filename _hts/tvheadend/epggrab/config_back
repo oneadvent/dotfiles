@@ -1,0 +1,7 @@
+{
+	"channel_rename": 0,
+	"channel_renumber": 0,
+	"channel_reicon": 0,
+	"interval": 43200,
+	"module": "/usr/bin/tv_grab_na_dd"
+}

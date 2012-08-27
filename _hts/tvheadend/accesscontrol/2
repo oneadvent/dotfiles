@@ -1,0 +1,12 @@
+{
+	"enabled": 1,
+	"username": "oneadvent",
+	"password": "dianalee",
+	"comment": "my access",
+	"prefix": "0.0.0.0/0",
+	"streaming": 1,
+	"dvr": 1,
+	"webui": 1,
+	"admin": 1,
+	"id": "2"
+}

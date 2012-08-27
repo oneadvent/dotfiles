@@ -1,0 +1,26 @@
+{
+	"service_id": 98,
+	"pmt": 2064,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "ECTV",
+	"channelname": "98 GOAC098",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2063,
+	"disabled": 0,
+	"stream": {
+		"pid": 2063,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 544,
+		"height": 480
+	},
+	"stream": {
+		"pid": 2062,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

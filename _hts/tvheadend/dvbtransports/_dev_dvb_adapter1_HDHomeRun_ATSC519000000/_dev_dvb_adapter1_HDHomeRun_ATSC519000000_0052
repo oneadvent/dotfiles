@@ -1,0 +1,25 @@
+{
+	"service_id": 82,
+	"pmt": 5200,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"channelname": "82 CSPAN3",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 5201,
+	"disabled": 0,
+	"stream": {
+		"pid": 5201,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 720,
+		"height": 480
+	},
+	"stream": {
+		"pid": 5202,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

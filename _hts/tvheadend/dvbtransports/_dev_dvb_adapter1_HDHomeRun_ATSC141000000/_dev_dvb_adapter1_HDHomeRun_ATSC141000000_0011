@@ -1,0 +1,23 @@
+{
+	"service_id": 17,
+	"pmt": 4160,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WDPM",
+	"channelname": "17 WDPMDT",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2073,
+	"disabled": 0,
+	"stream": {
+		"pid": 2073,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 2072,
+		"type": "AC3",
+		"position": 0
+	}
+}

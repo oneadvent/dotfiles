@@ -1,0 +1,26 @@
+{
+	"service_id": 117,
+	"pmt": 2080,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "BounceT",
+	"channelname": "117 WFNADT2",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 2079,
+	"disabled": 0,
+	"stream": {
+		"pid": 2079,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 720,
+		"height": 480
+	},
+	"stream": {
+		"pid": 2078,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

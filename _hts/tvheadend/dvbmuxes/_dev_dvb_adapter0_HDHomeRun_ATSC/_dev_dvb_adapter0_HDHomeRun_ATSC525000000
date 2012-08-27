@@ -1,0 +1,9 @@
+{
+	"quality": 100,
+	"enabled": 1,
+	"status": "OK",
+	"transportstreamid": 1525,
+	"frequency": 525000000,
+	"initialscan": 0,
+	"constellation": "QAM256"
+}

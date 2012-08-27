@@ -1,0 +1,26 @@
+{
+	"service_id": 705,
+	"pmt": 48,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "HDKRG",
+	"channelname": "5 WKRG",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 49,
+	"disabled": 0,
+	"stream": {
+		"pid": 49,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 1920,
+		"height": 1080
+	},
+	"stream": {
+		"pid": 52,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

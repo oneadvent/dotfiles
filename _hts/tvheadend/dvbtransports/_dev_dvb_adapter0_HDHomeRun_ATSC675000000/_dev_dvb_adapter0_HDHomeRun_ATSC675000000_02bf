@@ -1,0 +1,26 @@
+{
+	"service_id": 703,
+	"pmt": 3136,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WEAR HD",
+	"channelname": "3 WEAR",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 3137,
+	"disabled": 0,
+	"stream": {
+		"pid": 3137,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 1280,
+		"height": 720
+	},
+	"stream": {
+		"pid": 3140,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

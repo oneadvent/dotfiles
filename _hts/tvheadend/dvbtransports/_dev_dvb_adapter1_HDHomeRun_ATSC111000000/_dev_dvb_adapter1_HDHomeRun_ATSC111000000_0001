@@ -1,0 +1,23 @@
+{
+	"service_id": 1,
+	"pmt": 3904,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"channelname": "1 VODDM",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 3905,
+	"disabled": 0,
+	"stream": {
+		"pid": 3905,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 3906,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

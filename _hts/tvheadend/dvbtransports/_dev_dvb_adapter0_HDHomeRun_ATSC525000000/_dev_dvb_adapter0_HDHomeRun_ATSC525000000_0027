@@ -1,0 +1,22 @@
+{
+	"service_id": 39,
+	"pmt": 4512,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"channelname": "39 CRNCPEN",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 4515,
+	"disabled": 0,
+	"stream": {
+		"pid": 4513,
+		"type": "AC3",
+		"position": 0
+	},
+	"stream": {
+		"pid": 4514,
+		"type": "AC3",
+		"position": 1
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"service_id": 1006,
+	"pmt": 2080,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "E1_ WFB",
+	"dvb_eit_enable": 1,
+	"pcr": 2079,
+	"disabled": 0,
+	"stream": {
+		"pid": 2079,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 720,
+		"height": 480
+	},
+	"stream": {
+		"pid": 2078,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	},
+	"stream": {
+		"pid": 2077,
+		"type": "AC3",
+		"position": 2,
+		"language": "eng"
+	}
+}

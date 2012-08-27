@@ -1,0 +1,26 @@
+{
+	"service_id": 119,
+	"pmt": 64,
+	"stype": 1,
+	"scrambled": 0,
+	"channel": 0,
+	"servicename": "WEARCN",
+	"channelname": "119 WEARDT2",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 65,
+	"disabled": 0,
+	"stream": {
+		"pid": 65,
+		"type": "MPEG2VIDEO",
+		"position": 0,
+		"width": 704,
+		"height": 480
+	},
+	"stream": {
+		"pid": 68,
+		"type": "AC3",
+		"position": 1,
+		"language": "eng"
+	}
+}

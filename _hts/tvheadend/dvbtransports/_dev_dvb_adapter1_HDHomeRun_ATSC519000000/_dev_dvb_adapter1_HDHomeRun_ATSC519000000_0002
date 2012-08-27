@@ -1,0 +1,20 @@
+{
+	"service_id": 2,
+	"pmt": 3920,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"dvb_eit_enable": 1,
+	"pcr": 3921,
+	"disabled": 1,
+	"stream": {
+		"pid": 3921,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 3922,
+		"type": "AC3",
+		"position": 1
+	}
+}

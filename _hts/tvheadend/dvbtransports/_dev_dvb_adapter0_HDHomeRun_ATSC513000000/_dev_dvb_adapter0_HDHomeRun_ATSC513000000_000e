@@ -1,0 +1,27 @@
+{
+	"service_id": 14,
+	"pmt": 4112,
+	"stype": 0,
+	"scrambled": 0,
+	"channel": 0,
+	"channelname": "14 EPGTVG",
+	"mapped": 1,
+	"dvb_eit_enable": 1,
+	"pcr": 4113,
+	"disabled": 0,
+	"stream": {
+		"pid": 4113,
+		"type": "MPEG2VIDEO",
+		"position": 0
+	},
+	"stream": {
+		"pid": 4114,
+		"type": "AC3",
+		"position": 1
+	},
+	"stream": {
+		"pid": 4115,
+		"type": "AC3",
+		"position": 2
+	}
+}

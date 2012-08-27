@@ -1,0 +1,15 @@
+{
+	"channel": "WFNA HD",
+	"start": 1345737600,
+	"stop": 1345741200,
+	"start_extra": 0,
+	"stop_extra": 0,
+	"config_name": "",
+	"creator": "Auto recording by: 192.168.1.118",
+	"title": "The Young and the Restless",
+	"description": "Chelsea has news for Adam; Sharon becomes unstable at the Newman Ranch.",
+	"pri": "normal",
+	"noresched": 0,
+	"autorec": "3",
+	"episodename": "9977"
+}
